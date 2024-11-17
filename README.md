@@ -27,7 +27,7 @@ This project is an inventory management system that updates the `SellIn` and `Qu
 
 ### Import Items from API
 ```
-php [import_items.php](http://_vscodecontentref_/1)
+php [import_items.php]
 ```
 
 ###
